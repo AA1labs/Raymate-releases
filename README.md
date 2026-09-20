@@ -1,21 +1,16 @@
-# RayMate - Releases
+<p align="center">
+  <img src="https://raymate.app/assets/icon-256.png" alt="RayMate" width="128" height="128">
+</p>
 
-Binaries and the auto-update manifest for [RayMate](https://raymate.app), a Raycast-style AI assistant for macOS.
+<h1 align="center">RayMate Releases</h1>
 
-The application source is closed; this repository carries only the published artifacts.
+<p align="center">
+  <a href="https://raymate.app">raymate.app</a>
+</p>
 
-## Install
+This repository exists for two things:
 
-Download the latest `.dmg` from [Releases](../../releases/latest) and drag RayMate to Applications.
+- **Downloads and updates.** Every build is published here, and the app checks this repository when it looks for an update. Get the latest one from [Releases](https://github.com/AA1labs/Raymate-releases/releases/latest).
+- **Issues.** Found a bug, or want a feature? [Open an issue](https://github.com/AA1labs/Raymate-releases/issues/new).
 
-## Updates
-
-RayMate checks `latest.json` on this repository and updates itself. Every archive is
-signed with the project's minisign key and verified before it is applied, and the app
-bundle is signed and notarized by Apple.
-
-Settings → General → Check for updates triggers a check by hand.
-
-## Licence
-
-The RayMate binaries are proprietary. See [LICENSE](LICENSE).
+The app itself, and what it does, is at [raymate.app](https://raymate.app).
