@@ -1,4 +1,4 @@
-# RayMate — Releases
+# RayMate - Releases
 
 Binaries and the auto-update manifest for [RayMate](https://raymate.app), a Raycast-style AI assistant for macOS.
 
